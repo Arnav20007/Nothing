@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "price": 799,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "name": "Bluetooth Speaker",
+        "price": 899,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 3,
+        "name": "Smart Watch",
+        "price": 999,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 4,
+        "name": "Gaming Mouse",
+        "price": 749,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 5,
+        "name": "Mechanical Keyboard",
+        "price": 949,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 6,
+        "name": "Portable SSD 500GB",
+        "price": 899,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 7,
+        "name": "Wireless Charger",
+        "price": 599,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 8,
+        "name": "VR Headset",
+        "price": 999,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 9,
+        "name": "USB-C Hub",
+        "price": 699,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 10,
+        "name": "LED Desk Lamp",
+        "price": 549,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 11,
+        "name": "Noise Cancelling Headphones",
+        "price": 949,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 12,
+        "name": "Power Bank 20000mAh",
+        "price": 899,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 13,
+        "name": "Smartphone Tripod",
+        "price": 499,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 14,
+        "name": "Webcam 1080p",
+        "price": 799,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 15,
+        "name": "Mini Projector",
+        "price": 999,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 16,
+        "name": "External Hard Drive 1TB",
+        "price": 949,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 17,
+        "name": "RGB Mouse Pad",
+        "price": 549,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 18,
+        "name": "Wireless Presenter",
+        "price": 649,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 19,
+        "name": "USB Desk Fan",
+        "price": 499,
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 20,
+        "name": "Laptop Cooling Pad",
+        "price": 799,
+        "image": "https://via.placeholder.com/150"
+    }
+]
